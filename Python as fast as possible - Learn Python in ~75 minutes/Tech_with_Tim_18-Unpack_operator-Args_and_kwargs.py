@@ -2,7 +2,6 @@
 # Carlos Terreros Sanchez
 # Tech with Tim
 
-
 # Unpack operator, args and kwargs: def func(*args, **kwargs)
 def func(*args, **kwargs):
     pass
